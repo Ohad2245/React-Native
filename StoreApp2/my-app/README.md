@@ -44,4 +44,3 @@ End Buy page:
 
 
 
-![02b171ee-da90-475e-a42b-d5ecb23cd5ce](https://user-images.githubusercontent.com/92857359/154833820-95190684-1afe-443a-b79a-9699066be295.jpg)
