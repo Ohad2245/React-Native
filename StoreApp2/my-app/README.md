@@ -49,5 +49,11 @@
 <img src="./assets/9.jpg" width="350"/>
 <br>
 
+### 4. Payment page:
+<img src="./assets/10.jpg" width="350"/>
+
+### 4. Payment page:
+<img src="./assets/11.jpg" width="350"/> 
+
 ### 4. Succsess page:
 <img src="./assets/8.jpg" width="350"/>
