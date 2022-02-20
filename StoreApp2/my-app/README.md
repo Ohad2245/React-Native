@@ -28,6 +28,7 @@
 <br>
 <img src="./assets/2.jpg" width="350"/>
 <br>
+
 ### 2. Product Info Page 1
 <img src="./assets/3.jpg" width="350"/>
 <br>
@@ -35,11 +36,14 @@
 <br>
 <img src="./assets/5.jpg" width="350"/>
 <br>
+
 ### 3. My Cart Page 1
 <img src="./assets/6.jpg" width="350"/>
 <br>
+
 ### 4. Example catrory page:
 <img src="./assets/7.jpg" width="350"/>
 <br>
+
 ### 4. Succsess page:
 <img src="./assets/8.jpg" width="350"/>
