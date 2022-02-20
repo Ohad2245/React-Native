@@ -39,6 +39,6 @@ Payment page:
 End Buy page:
 ![75a66dbd-296f-4877-b7e5-0d49681261ef](https://user-images.githubusercontent.com/92857359/154823957-cda50c16-143b-437f-ba7e-132f2f592922.jpg)
 
-<img src="images/1.jpg" width ="100">
+<img src="React-Native/images/1.jpg" width ="100">
 
 
