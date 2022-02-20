@@ -24,7 +24,7 @@
 <br><br>
 ##### Screens :
 ### 1. Home Page 1
-<img src="./assets//1.jpg"/>
+<img src="./assets//1.jpg" width="100"/>
 <br>
 <img src="./assets/2.jpg"/>
 <br>
