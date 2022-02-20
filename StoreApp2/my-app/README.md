@@ -39,3 +39,9 @@ Payment page:
 End Buy page:
 ![75a66dbd-296f-4877-b7e5-0d49681261ef](https://user-images.githubusercontent.com/92857359/154823957-cda50c16-143b-437f-ba7e-132f2f592922.jpg)
 
+
+
+
+
+
+![02b171ee-da90-475e-a42b-d5ecb23cd5ce](https://user-images.githubusercontent.com/92857359/154833820-95190684-1afe-443a-b79a-9699066be295.jpg)
