@@ -1,9 +1,12 @@
 # README
 
-##### ReadMe Nike Shoes store App Final project in React-native course. This Application offers both online shop and service for all Nike shoes category. Develop by me and my friends as a final project All rights reserved – Ohad Cohen, David Shoshan and Shoval Soli.
+##### ReadMe Nike Shoes store App Final project in React-native course.
+##### This Application offers both online shop and service for all Nike shoes category. 
+##### Develop by me and my friends as a final project All rights reserved – Ohad Cohen, David Shoshan and Shoval Soli.
 
 ##### Visibility on app screens
-##### Home Screen On this page we can see all the optional shoes for online order. There is any kind of Nike shoes.
+##### Home Screen On this page we can see all the optional shoes for online order.
+##### There is any kind of Nike shoes.
 
 ##### In any category of shoe, you will navigate to the specific category by clicking and add it to the cart if you like to buy.
 ##### There is cart icon in the header of the app, by click on it you will navigate to the shopping cart in our app.
