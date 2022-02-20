@@ -24,18 +24,18 @@
 <br><br>
 ##### Screens :
 ### 1. Home Page 1
-<img src="./assets//1.jpg" width="100"/>
+<img src="./assets//1.jpg" width="350"/>
 <br>
-<img src="./assets/2.jpg"/>
+<img src="./assets/2.jpg" width="350"/>
 <br>
-<img src="./assets/3.jpg"/>
+<img src="./assets/3.jpg" width="350"/>
 <br>
-<img src="./assets/4.jpg"/>
+<img src="./assets/4.jpg" width="350"/>
 <br>
-<img src="./assets/5.jpg"/>
+<img src="./assets/5.jpg" width="350"/>
 <br>
-<img src="./assets/6.jpg"/>
+<img src="./assets/6.jpg" width="350"/>
 <br>
-<img src="./assets/7.jpg"/>
+<img src="./assets/7.jpg" width="350"/>
 <br>
-<img src="./assets/8.jpg"/>
+<img src="./assets/8.jpg" width="350"/>
