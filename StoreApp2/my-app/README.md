@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 
 <img src="./assets//1.jpg" width="280"/>
 
-<img src="./assets/2.jpg" width="350"/>
+<img src="./assets/2.jpg" width="280"/>
 
 
 ##### On this page we can see all the optional shoes for online order. 
@@ -33,8 +33,9 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 
 ---------------------------------------------------------
 # Category Screen 
+<img src="./assets/7.jpg" width="280"/>
 
-<img width="280" alt="catgoryPage1" src="https://user-images.githubusercontent.com/93192285/154842501-7c9b0488-d15f-4d10-bd71-c8bf23bac7e9.png">
+
 
 ##### In Category page we have
 ##### All products that are accessible for purchase. 
@@ -54,7 +55,8 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 
 <img src="./assets/5.jpg" width="280"/>
 
-<img width="280" alt="unvaliblePage" src="https://user-images.githubusercontent.com/93192285/154844026-15a6fac4-6e27-41ff-9453-d3a9ff0b5f80.png">
+<img src="./assets/9.jpg" width="280"/>
+
 
 ##### •	We can see if the product is readily available OR NOT
 
@@ -74,7 +76,8 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 # Cart Screen 
 
 
-<img width="280" alt="cart1" src="https://user-images.githubusercontent.com/93192285/154843576-06aaacd0-af45-489d-884a-9d07db438b2d.png">
+<img src="./assets/6.jpg" width="280"/>
+
 
 ##### On this page we have a list with all the products we add to the cart,
 ##### We Also develop a special Method for using a coupon from the users.
@@ -96,8 +99,10 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 ---------------------------------------------------------
 # Payment Screen 
 
-<img width="280" alt="paymentScreen" src="https://user-images.githubusercontent.com/93192285/154843920-705066db-eb7c-4d9c-bb14-1df8c1e4cde8.png">
-<img width="280" alt="paymentScreen2" src="https://user-images.githubusercontent.com/93192285/154843922-0f60ce7b-922e-435c-bdd9-5c76af9daf68.png">
+<img src="./assets/10.jpg" width="280"/>
+
+<img src="./assets/11.jpg" width="280"/> 
+
 
 
 ##### On this screen we can see all the product details and the payment details before we pay.
@@ -111,7 +116,7 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 ---------------------------------------------------------
 # Order accepted Screen 
 
-<img src="./assets/8.jpg" width="350"/>
+<img src="./assets/8.jpg" width="280"/>
 
 
 ##### On this page we can see if our payment passed successfully OR not
