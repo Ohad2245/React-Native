@@ -18,8 +18,10 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 # Home Screen 
 
 
-<img width="280" alt="home1" src="https://user-images.githubusercontent.com/93192285/154842221-bcc08e38-e9cd-4d5c-887f-1ae672eae1f1.png">
-<img width="280" alt="home2" src="https://user-images.githubusercontent.com/93192285/154842289-bc855482-7e83-4810-8116-bbaeb9b84fa8.png">
+<img src="./assets//1.jpg" width="280"/>
+
+<img src="./assets/2.jpg" width="350"/>
+
 
 ##### On this page we can see all the optional shoes for online order. 
 
@@ -46,9 +48,12 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 # Product Details Screen 
 
 
-<img width="280" alt="product1" src="https://user-images.githubusercontent.com/93192285/154843873-05ba750a-ea7f-4c9e-83d8-4d63d24d8c3f.png">
-<img width="280" alt="product2" src="https://user-images.githubusercontent.com/93192285/154843879-bb2db478-bf9c-48c4-bb1d-efcadf160cf1.png">
-<img width="280" alt="product3" src="https://user-images.githubusercontent.com/93192285/154843887-f5ed8c58-efa3-4601-ba74-d35232d68e9a.png">
+<img src="./assets/4.jpg" width="280"/>
+
+<img src="./assets/3.jpg" width="280"/>
+
+<img src="./assets/5.jpg" width="280"/>
+
 <img width="280" alt="unvaliblePage" src="https://user-images.githubusercontent.com/93192285/154844026-15a6fac4-6e27-41ff-9453-d3a9ff0b5f80.png">
 
 ##### •	We can see if the product is readily available OR NOT
@@ -106,7 +111,7 @@ https://user-images.githubusercontent.com/92857359/154974262-a5d97b95-4da1-47a9-
 ---------------------------------------------------------
 # Order accepted Screen 
 
-<img width="280" alt="paymentSuccess" src="https://user-images.githubusercontent.com/93192285/154843798-1425cd87-0386-43a7-bdbe-c8b7f73c8ab6.png">
+<img src="./assets/8.jpg" width="350"/>
 
 
 ##### On this page we can see if our payment passed successfully OR not
